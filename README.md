@@ -85,6 +85,7 @@ I have also tested my application using Junit and Mockito with a coverage of ove
 When coding both the front end and the back end, I have used the best design principles. I have ensured that I don’t have to repeat myself and that my code is easily readable and arranged in a coherent order so that it can be modified easily by any other developer.
 
 Initially I had an incoherent structure to my Java project based on front-end pages (see image below).
+
 ![Initial Java structure](Docs/FilesLayout-old.jpg)
 
 This was too complicated and confusing. As the project went on, I decided to simplify my approach and  adopt a more coherent structure for both Java and the front end.
