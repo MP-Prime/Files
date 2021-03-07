@@ -52,7 +52,7 @@ Here are screenshots of what Files currently looks like from a user’s perspect
 ![Update files screenshot](Docs/Filesupdatefile2.jpg)
 
 *Task success:*
-![Files success screenshot](Docs/Filessuccess.jpg)
+![Files success screenshot](Docs/filessuccess.jpg)
 
 *Query error:*
 ![Query error screenshot](Docs/Fileserror.jpg)
