@@ -89,12 +89,19 @@ Initially I had an incoherent structure to my Java project based on front-end pa
 
 This was too complicated and confusing. As the project went on, I decided to simplify my approach and  adopt a more coherent structure for both Java and the front end.
 *Java main:*
+
 ![Java main structure](Docs/FilesLayout.jpg)
+
 *Java test:*
+
 ![Java test structure](Docs/FilesLayout2.jpg)
+
 *Java resources:*
+
 ![Java resources structure](Docs/FilesLayout3.jpg)
+
 *Front end:*
+
 ![Front end](Docs/FilesLayoutfe.jpg)
 
 ### **Risk assessment**
