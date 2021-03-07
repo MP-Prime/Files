@@ -1,4 +1,4 @@
-# **Note Project**
+# **Files**
 ## _Repository that stores the note project_
 ---
 ### **Summary**
