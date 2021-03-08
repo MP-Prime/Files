@@ -99,7 +99,7 @@ This was too complicated and confusing. As the project went on, I decided to sim
 
 *Java resources:*
 
-![Java resources structure](Docs/FilesLayout3.jpg)
+![Java resources structure](Docs/Fileslayout3.jpg)
 
 *Front end:*
 
